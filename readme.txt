@@ -1,6 +1,6 @@
 1. Make sure you have python3 installed
 
-2. First your have to install all the requirements so,
+2. First you have to install all the requirements so,
     pip install -r requirements.txt
 
 3. There are only four Route (one is admin)
